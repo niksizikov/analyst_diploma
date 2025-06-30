@@ -24,7 +24,8 @@ JupyterLab. Библиотеки: pandas, numpy, sqlite3, matplotlib, sklearn, s
 
 ![image](https://github.com/user-attachments/assets/af584b2d-eada-45f1-9f74-21f12dc02aa6)
 
-![image](https://github.com/user-attachments/assets/7852a8d6-1a87-4aa3-bf85-5bb7228b3fe8)
+![image](https://github.com/user-attachments/assets/4634e9a1-6ade-40ff-b001-3cd1a8b4709f)
+
 
 9. Анализ и интерпретация кластеров по категориям товаров (топ-5 категорий)
 10. Анализ чувствительности к скидкам по кластерам
